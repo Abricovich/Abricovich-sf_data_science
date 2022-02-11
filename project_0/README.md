@@ -17,7 +17,7 @@
 ### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 2. Какой кейс решаем?
 Необходимо написать программу, которая угадывает число за минимальное число попыток
@@ -36,12 +36,12 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 3. Краткая информация о данных
 .........
 
-:arrow_up:[к оглавлению](hhttps://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 4. Этапы работы над проектом
 - Создаём функцию score_game, генерирующую рандомно последовательность из 1000 чисел в диапазоне от 1 до 100
@@ -55,17 +55,17 @@
 
 - Score_game считает среднее число попыток угадывания алгоритма для выборки из 1000 чисел, и выводит на экран
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 5. Результаты
 Созданный алгоритм рабочий и показал результаты угадывания в 4 раза лучше, чем ставилось в условии задания(20 попыток).
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 6. Выводы
 Созданный алгоритм интегрирован в программу game_v2, и показал угадывание числа в среднем за 5 попыток на выборке из 1000 случайных чисел.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 
