@@ -1,22 +1,22 @@
 # Проект 1. Анализ вакансий из HeadHunter 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Описание#проекта)
+[1. Описание проекта](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Какой#кейс#решаем)
+[2. Какой кейс решаем?](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#2-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Краткая информация о данных](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Краткая#информация#о#данных)
+[3. Краткая информация о данных](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-[4. Этапы работы над проектом](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Этапы#работы#над#проектом)
+[4. Этапы работы над проектом](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
 
-[5. Результаты](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Результаты)
+[5. Результаты](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
-[6. Выводы](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Выводы)
+[6. Выводы](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### 1. Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и состоит задача проекта.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 2. Какой кейс решаем?
 Исследовать, очистить, и преобразовать датасет для дальнейшей работы. 
@@ -41,14 +41,14 @@
 Учимся писать хороший код на Python, практикуем: визуализацию, написание функций,
 методы очистки данных, базовые/продвинутые методы работы  с данными в Pandas 
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 3. Краткая информация о данных
 - Исходный датасет размещён на [ресурсе](https://drive.google.com/file/d/164vl81i9SHURB-xJxCrMYPDdYoSxRxOs/view?usp=sharing). 
 Датасет представляет из себя базу резюме, выгруженную с сайта поиска вакансий hh.ru
 - Дополнительная выгрузка - [файл](https://drive.google.com/file/d/1zIIaWf_J6M3faQ13MLuPpI6YR1NS_YYe/view?usp=sharing) о курсах валют.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 4. Этапы работы над проектом
 - Базовый анализ структуры данных
@@ -56,18 +56,18 @@
 - Разведывательный анализ(EDA)
 - Очистка данных
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
  
 
 ### 5. Результаты
 Проведён базовый и исследовательский анализ структуры данных, получен преобразованный и очищенный датасет от выбросов, дублей, сформированы новые признаки. Добавлена визуализация.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 6. Выводы
 Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в Project 1. Датасет подготовлен для следующего этапа.
  
-:arrow_up:[к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 
