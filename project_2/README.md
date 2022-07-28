@@ -1,22 +1,22 @@
 # Проект 2. Анализ результатов A/B-тестирования
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[1. Описание проекта](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#2-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[2. Какой кейс решаем?](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#2-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Краткая информация о данных](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[3. Краткая информация о данных](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-[4. Этапы работы над проектом](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
+[4. Этапы работы над проектом](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
 
-[5. Результаты](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
+[5. Результаты](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
-[6. Выводы](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+[6. Выводы](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### 1. Описание проекта
 Компания планирует запустить новую акцию, чтобы продать как можно больше туров. Команда разработала два варианта посадочной страницы официального сайта компании и провела A/B-тестирование. Необходимо провести анализ тестирования по метрикам средний чек и конверсия продаж
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 2. Какой кейс решаем?
 Проанализировать эффективность обоих вариантов посадочной страницы сразу по двум критериям: конверсии покупки и среднему чеку. На основе проведенного анализа вам будет необходимо сделать выводы и принять решение: какой из вариантов дизайна более предпочтительный.
@@ -42,14 +42,14 @@
 Учимся писать хороший код на Python, практикуем: написание функций, умения выбирать и применять статистические тесты, проверять гипотезы,
 базовые/продвинутые методы работы  с данными в Pandas, визуализацию
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 3. Краткая информация о данных
 - Исходный датасет размещён на [ресурсе](https://drive.google.com/uc?id=1XWWqJeuVmHubRbj5LwDj8937q3m7D3IZ). 
 Датасет представляет из себя собранные в результате проведения эксперимента данные
 
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 4. Этапы работы над проектом
 - Базовый анализ структуры данных, преобразование данных
@@ -57,18 +57,18 @@
 - Формулирование и проверка гипотез
 - Резюме
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
  
 
 ### 5. Результаты
 Проведён анализ А/В тестирования по метрикам, сделаны выводы по результату
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 6. Выводы
 Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в Project 1. Датасет подготовлен для следующего этапа.
  
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 
