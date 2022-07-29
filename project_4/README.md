@@ -33,7 +33,7 @@
 **Метрика качества**
 - Решение оформлено согласно требованиям "Условия соревнования"
 - Соблюдены и выполнены все этапы проекта с заданиями, представлены выводы и графики
-- Проведён анализ согласно метрикам средний чек, конверсия продаж
+- Результаты оцениваются по метрике MAPE
 - Делаем реальный ML продукт, который потом сможет нормально работать на новых данных.
 - Решение размещено на Git hub и [Kaggle](https://www.kaggle.com/competitions/sf-booking)
 
@@ -46,28 +46,29 @@
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 3. Краткая информация о данных
-- Исходный датасет размещён на [ресурсе](https://drive.google.com/uc?id=1XWWqJeuVmHubRbj5LwDj8937q3m7D3IZ). 
-Датасет представляет из себя собранные в результате проведения эксперимента данные
+- Набор данных для обучения(hotels_train.csv.zip) размещён на [ресурсе](https://drive.google.com/uc?id=1ikv9SwqRQztgRwI42RNXWNsMzpEtx16Y)
+- Набор данных для оценки качества(hotels_test.csv.zip) размещён на [ресурсе](https://drive.google.com/uc?id=1sN-Tlrrvf5_V-jGx22rV1hLIou9Tq4Ri)
+- Файл сабмишна в нужном формате(submission.csv.zip) размещён на [ресурсе](https://drive.google.com/uc?id=13yYjKvIYLJ618-vGYuD1nImsoSMy6BNi)
 
 
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 4. Этапы работы над проектом
 - Базовый анализ структуры данных, преобразование данных
-- Проверка корректности эксперимента
-- Формулирование и проверка гипотез
+- EDA + Feature Engineering
+- Моделирование
 - Резюме
 
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
  
 
 ### 5. Результаты
-Проведён анализ А/В тестирования по метрикам, сделаны выводы по результату
+Построена модель машинного обучения по предсказанию рейтинга отеля на предварительно созданных и обработанных признаках. Сделаны предсказания, результат засабмишен на [Kaggle](https://www.kaggle.com/competitions/sf-booking)
 
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 6. Выводы
-Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в Project 2. 
+Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в EDA_Project_4_model. 
  
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
