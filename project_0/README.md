@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# [Проект 0. Угадай число](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_0/game.ipynb)
 
 ## Оглавление
 
