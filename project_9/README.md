@@ -1,17 +1,17 @@
 # [Проект 9. Определение длительности поездки на такси. Задача регрессии](https://github.com/Abricovich/Abricovich-sf_data_science/blob/master/project_8/PROJECT_8_GDP_GHANA.ipynb)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[1. Описание проекта](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#2-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[2. Какой кейс решаем?](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#2-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Краткая информация о данных](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[3. Краткая информация о данных](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-[4. Этапы работы над проектом](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
+[4. Этапы работы над проектом](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
 
-[5. Результаты](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
+[5. Результаты](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
-[6. Выводы](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+[6. Выводы](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### 1. Описание проекта
 Предстоит решить настоящую задачу машинного обучения, направленную на автоматизацию бизнес-процессов. Мы построим модель, которая будет предсказывать общую продолжительность поездки на такси в Нью-Йорке.
@@ -20,7 +20,7 @@
 
 **Техническая задача** для вас как для специалиста в Data Science: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать числовой признак — время поездки такси, то есть решить задачу регрессии.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 2. Какой кейс решаем?
 
@@ -48,14 +48,14 @@
 - Отбор признаков 
 - Построение моделей машинного обучения
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 3. Краткая информация о данных
 - Датасет содержит данные о почти 1.5 миллионах поездок в г. Нью-Йорк и 11 характеристиках, которые описывают каждую из поездок.Тренировочные данные на [ресурсе](https://drive.google.com/file/d/1p8LKmyKDdsa3ekWOBctUOMpFAY_WBXS9/view?usp=share_link).
 
 Ссылки на дополнительные данные даны в самом проекте.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 4. Этапы работы над проектом
 1. Первичная обработка данных
@@ -78,18 +78,18 @@
 
 На заключительном этапе сможем доработать своё предсказание с использованием более сложных алгоритмов и оценить, с помощью какой модели возможно сделать более качественные прогнозы.
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
  
 
 ### 5. Результаты
 Решена задача регрессии, с подобранной оптимальной моделью и лучшей метрикой. 
 
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 6. Выводы
 Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в Project_9. 
  
-:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_8#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 
