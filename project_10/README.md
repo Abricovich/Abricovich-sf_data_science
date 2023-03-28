@@ -51,7 +51,14 @@
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_9#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 3. Краткая информация о данных
-- Датасет содержит данные об объектах недвижимости США на [ресурсе](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view?usp=share_link).
+- Датасет содержит данные об объектах недвижимости США на [ресурсе](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view?usp=share_link) или [здесь](https://drive.google.com/file/d/17aj_EZ7BRqsOYbhjEH8hwlURmc5o35jp/view?usp=share_link)
+- Project-10.ipynb - Jupiter Notebook с проектом
+- df_pars.py - парсер данных с сайта http://amerikos.com/geo/?pageNumber=1&pageLimit=120
+- df_pars.csv -спарсенные данные
+- server.py - сервер на Flask
+- client.py - клиент для тестирования
+- сериализовання модель размещена по [адресу](https://drive.google.com/file/d/1soQzKixtcDwP3n2pRMM7qeWN2JE4YDIM/view?usp=share_link)
+
 
 Ссылки на дополнительные данные даны в самом проекте.
 
