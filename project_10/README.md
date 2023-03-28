@@ -94,7 +94,7 @@
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_10#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 6. Выводы
-Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в Project_9. 
+Задачи проекта выполнены полностью с соблюдением всех этапов. Полные выводы по каждому этапу сформированы в Project_10. 
  
 :arrow_up:[к оглавлению](https://github.com/Abricovich/Abricovich-sf_data_science/tree/master/project_10#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
