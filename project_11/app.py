@@ -36,7 +36,7 @@ def make_mappers(books):
 
     return name_mapper, author_mapper
 
-def load_embeddings(file_name='item_embeddings.pkl'):
+def load_embeddings(file_name='project_11/item_embeddings.pkl'):
     """
     Функция для загрузки векторных представлений.
     Возвращает прочитанные эмбеддинги книг и индекс (граф) для поиска похожих книг.
