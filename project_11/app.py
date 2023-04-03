@@ -15,7 +15,7 @@ import plotly.express as px
 # Реализуем функции необходимые для работы приложения
 
 @st.cache
-def read_files(folder_name='abricovich/abricovich-sf_data_science/master/project_11/data'):
+def read_files(folder_name='project_11/data'):
     """
     Функция для чтения файлов.
     Возвращает два DataFrame с рейтингами и характеристиками книг.
@@ -78,7 +78,7 @@ def get_recomendation_df(ids, distances, name_mapper, author_mapper):
     return recomendation_df
 
 #Загружаем данные
-ratings, books = read_files(folder_name='abricovich/abricovich-sf_data_science/master/project_11/data') 
+ratings, books = read_files(folder_name='project_11/data') 
 #Создаем словари для сопоставления id книг и их названий/авторов
 name_mapper, author_mapper = make_mappers(books)
 #Загружаем эмбеддинги и создаем индекс для поиска
